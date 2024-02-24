@@ -1,0 +1,4 @@
+
+# Configuración en Visual Studio Code
+
+Mi configuración en Visual Studio Code se centra principalmente en la extensión de Vim para este editor, lo que me permite utilizar comandos y funcionalidades similares a los del editor Vim. Además, he personalizado mi entorno con varios temas para adaptar la apariencia a mis preferencias visuales. Entre los temas que suelo utilizar se encuentran Andromeda, Andromeda Colorizer, Atom One Dark, One Dark Pro Darker, Palenight, Tokyo Night y Nord Aurora Darker. Estos temas me permiten trabajar de manera más cómoda y estética, creando un ambiente visual agradable y funcional para mi flujo de trabajo en Visual Studio Code.
